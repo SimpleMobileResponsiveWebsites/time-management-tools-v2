@@ -2,10 +2,11 @@
 
  React-based Time Management Dashboard with the following features:
 
-Clean, professional design with Tailwind CSS
+Clean, design with Tailwind CSS
 Responsive layout that works on all devices
 Smooth transitions and intuitive navigation
 Collapsible sections for better organization
+
 Core Features:
 
 Task creation with priority levels
@@ -13,6 +14,7 @@ Time tracking with start/end times
 Resource and people management
 Expense tracking
 Roadblock and issue logging
+
 Analytics:
 
 Interactive charts using Plotly.js
@@ -20,7 +22,8 @@ Priority distribution visualization
 Daily time spent analysis
 Task completion trends
 CSV data export
-Modern Development:
+
+Development:
 
 TypeScript for type safety
 Component-based architecture
